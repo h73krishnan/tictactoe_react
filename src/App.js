@@ -4,7 +4,7 @@ import Icon from "./components/Icon.js";
 
 import {ToastContainer} from "react-toastify";
 import {Card, CardBody, Container, Button, Col, Row} from "reactstrap";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 const itemArray = new Array(9).fill("empty");
 
