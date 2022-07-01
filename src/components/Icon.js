@@ -1,6 +1,7 @@
 import React from "react";
 import { FaTimes, FaPen, FaRegCircle } from "react-icons/fa";
 
+
 const Icon = ({ name }) => {
   return (
     <h1>
@@ -8,5 +9,6 @@ const Icon = ({ name }) => {
     </h1>
   );
 };
+
 
 export default Icon;
